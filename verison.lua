@@ -1,2 +1,2 @@
 module = {}
-module.newverison = 2.1
+module.verison = 2.1
