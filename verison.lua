@@ -1,4 +1,4 @@
 
 module = {}
 
-module.Version = "2.1"
+module.newversion = "2.1"
