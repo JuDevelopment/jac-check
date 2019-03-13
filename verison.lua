@@ -1,2 +1,4 @@
+
 module = {}
-module.verison = 2.1
+
+module.Version = "2.1"
